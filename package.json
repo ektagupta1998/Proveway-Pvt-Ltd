@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "googleapis": "^133.0.0",
+    "querystring": "^0.2.1"
+  },
+  "name": "task",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "index": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
